@@ -1,2 +1,2 @@
-# Meu-segundo-reposit-rio
+# Meu-segundo-repositorio
 Trabalho em dupla
